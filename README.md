@@ -7,7 +7,7 @@ For the theory behind the program, go to the documentation folder.
 
 ## Getting started
 
-To run the application you need to have Python3 installed along with the required libraries.
+To run the application you need to have Python 3 installed along with the required libraries.
 
 ## Setup
 
