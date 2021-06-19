@@ -1,5 +1,5 @@
 # Reactor
-A group university project. Simulation of a nuclear reactor using the PID controller. Implemented in Python3 with the use of Bokeh live server.
+A group university project. Simulation of a nuclear reactor using the PID controller. Implemented in Python with the use of Bokeh live server.
 
 ## Theory
 
