@@ -3,7 +3,7 @@ Simulation of a nuclear reactor using the PID controller. Implemented in Python3
 
 ## Theory
 
-For the theory behind the program, go to the documentation folder and see the documentation.pdf file.
+For the theory behind the program, go to the documentation folder.
 
 ## Getting started
 
